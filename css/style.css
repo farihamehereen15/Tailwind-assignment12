@@ -1,0 +1,165 @@
+header button{
+    padding: 5px 20px;
+     border-radius: 30px;
+     border: 2px solid black;
+  margin: auto;
+ }
+ 
+
+ .hero{
+   background-image: url("/image/Untitled.svg");
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   border-bottom-right-radius: 176px;
+}
+
+ 
+ .hero-section .btn{
+     padding: 5px 20px;
+      border-radius: 30px;
+      background-color: white;
+  }
+ 
+  .hero-section a{
+     padding: 5px 20px;
+  }
+
+  .down img{
+     max-width: 25%;
+     height: 20%;
+  }
+ 
+  .vec{
+       text-align: center;
+       margin-top: 25%;
+  }
+  .vec img{
+     text-align: center;
+     
+  }
+
+  .work{
+   background-image: url("/image/Untitled.png");
+}
+ 
+
+#secure-payment{
+   background-color:  rgba(255, 253, 230, 0.35) ;
+   border-radius: 250px 0px 0px 0px;
+}
+ 
+ 
+  .plan{
+     background-image: url("/image/Untitled.png");
+  }
+  .rec{
+     width: 8rem;
+     padding: 0.1rem 0.5rem;
+     border-radius: 5px;
+  }
+ 
+ .free-plan{
+   background-color:  #2F5392;
+ }
+ 
+ 
+ .faq{
+    padding-top: 10%;
+ }
+ 
+ 
+ .box-1{
+    transition: all 1s;
+ }
+ 
+ .box-1:hover{     
+    transform: translateY(-10%)
+    scale(1.1); 
+   
+    box-shadow: 0px 30px 30px  rgb(221, 148, 215);
+ }
+ .box-2{
+    transition: all 1s;
+ }
+ 
+ .box-2:hover{     
+    transform: translateY(-10%)
+    scale(1.1); 
+    box-shadow: 0px 30px 50px  rgb(127, 202, 158);
+ }
+ 
+ 
+ .client{
+    transition: all 1s;
+  ;
+   }
+ 
+ .client:hover{
+  transform: translateY(-10%) scale(1.03);
+  box-shadow: 0px 30px 50px  rgb(85, 73, 83);
+ 
+ }
+ 
+ .first{
+    transition: all 1s;
+    padding: 2rem;
+  
+   }
+ 
+ .first:hover{
+  transform: translateY(-10%) scale(1.1);
+  box-shadow: 0px 30px 50px  rgb(85, 73, 83);
+ 
+ }
+ 
+ 
+ .second{
+    transition: all 1s;
+    padding: 2rem;
+   }
+ 
+ .second:hover{
+  transform: translateY(-10%) scale(1.1);
+  box-shadow: 0px 30px 50px  rgb(85, 73, 83);
+ 
+ }
+ 
+ 
+ 
+ 
+ .third{
+    transition: all 1s;
+     padding: 2rem;
+   }
+ 
+ .third:hover{
+  transform: translateY(-10%) scale(1.1);
+  box-shadow: 0px 30px 50px  rgb(85, 73, 83);
+ 
+ }
+ 
+ .ex{
+    transition: all 1s;
+   }
+ 
+ .ex:hover{
+  transform: scale(0.9);
+ 
+ }
+
+ .hero-btn{
+   background: #FFFFFF;
+   padding: 10px 30px;
+   color: black;
+   border-radius: 50px;
+   margin-bottom: 15px;
+ }
+
+
+ .video{
+   margin-top: 5px;
+ }
+
+ 
+ 
